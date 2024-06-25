@@ -8,4 +8,4 @@ The only purpose of this repository is for tracking issues of the videogame Leav
 
 <br>
 
-<pre>Made by GYCODING</pre>
+<pre align="center">GYCODING 2024</pre>
